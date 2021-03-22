@@ -1,8 +1,8 @@
 # PulseAnimation
 Pulse Button Animation with SwiftUI
 
-<img width="298" alt="plus" src="https://user-images.githubusercontent.com/5228713/112019435-6fda7180-8b55-11eb-97ed-acefc02a2394.png">
-<img width="298" alt="plus" src="https://user-images.githubusercontent.com/5228713/112019401-66e9a000-8b55-11eb-98d9-6383b77774a6.png">
+<img width="298" alt="plus" src="https://user-images.githubusercontent.com/5228713/112019435-6fda7180-8b55-11eb-97ed-acefc02a2394.png"> <img width="298" alt="plus" src="https://user-images.githubusercontent.com/5228713/112019401-66e9a000-8b55-11eb-98d9-6383b77774a6.png">
+
 
 
 
