@@ -1,2 +1,2 @@
 # PulseAnimation
-Pules Button Animation with  SwiftUI
+Pulse Button Animation with  SwiftUI
