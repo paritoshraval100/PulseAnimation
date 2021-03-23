@@ -10,12 +10,12 @@ Pulse Button Animation with SwiftUI
 
 
 
-I have created **PJRPulseButton** which will generate a pulse animation for the buttonn. Provided an example as well.
+I have created **PJRPulseButton** which will generate a pulse animation for the button. Provided an example as well.
 
 
 # How to use?
 
-It is very simple, you can use **PJRPulseButton** file in any class just like `PJRPulseButton()`. It will craete a default button animation with plus button image.
+It is very simple, you can use **PJRPulseButton** file in any class just like `PJRPulseButton()`. It will craeate a default button animation with plus button image.
 
 
 https://user-images.githubusercontent.com/5228713/112018520-a6fc5300-8b54-11eb-90ac-fd66d751a98e.mov
